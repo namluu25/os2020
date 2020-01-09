@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: *Luu Hai Nam*
+* Student Name: *Luu Hai Nam *
 * Student ID: *BI9-170*
 
